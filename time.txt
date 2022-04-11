@@ -1,0 +1,6 @@
+total 0
+drwxrwxrwx    1 root     root           512 Apr 11 03:15 .
+drwxrwxrwx    1 root     root           512 Apr 11 02:53 ..
+drwxrwxrwx    1 root     root           512 Apr 11 02:51 .git
+-rwxrwxrwx    1 root     root           226 Apr 11 03:15 time.sh
+-rw-r--r--    1 root     root             0 Apr 11 03:15 time.txt
